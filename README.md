@@ -1,10 +1,10 @@
-# Starlume
+# Aemeath
 
-Starlume 是一个适用于 Codex Desktop 的 v2 动画宠物：一颗拥有粉蓝渐变长发、琥珀色眼睛和活力自拍气质的明亮星星。
+Aemeath 是一个适用于 Codex Desktop 的 v2 动画宠物：一颗拥有粉蓝渐变长发、琥珀色眼睛和活力自拍气质的明亮星星。
 
 > **原型声明：** 本 Pet 的角色原型基于《鸣潮》中的爱弥斯。《鸣潮》及爱弥斯的相关权益归其权利人所有。
 
-![Starlume 动画状态预览](./contact-sheet.png)
+![Aemeath 动画状态预览](./contact-sheet.png)
 
 ## 特性
 
@@ -19,7 +19,7 @@ Starlume 是一个适用于 Codex Desktop 的 v2 动画宠物：一颗拥有粉�
 在项目目录中运行：
 
 ```bash
-PET_DIR="${CODEX_HOME:-$HOME/.codex}/pets/starlume"
+PET_DIR="${CODEX_HOME:-$HOME/.codex}/pets/aemeath"
 mkdir -p "$PET_DIR"
 cp pet.json spritesheet.webp "$PET_DIR/"
 ```
@@ -29,7 +29,7 @@ cp pet.json spritesheet.webp "$PET_DIR/"
 安装后的目录应为：
 
 ```text
-~/.codex/pets/starlume/
+~/.codex/pets/aemeath/
 ├── pet.json
 └── spritesheet.webp
 ```
@@ -66,8 +66,8 @@ cp pet.json spritesheet.webp "$PET_DIR/"
 
 ```json
 {
-  "id": "starlume",
-  "displayName": "Starlume",
+  "id": "aemeath",
+  "displayName": "Aemeath",
   "description": "A bright pink-and-cyan star sprite with flowing hair, radiant amber eyes, and cheerful selfie-star energy.",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
