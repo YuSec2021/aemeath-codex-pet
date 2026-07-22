@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "file": "/Users/yusec/Documents/Codex/2026-07-21/hatch-pet-users-yusec-codex-skills-2/work/aemeath-idle-repair/final/spritesheet-extended.webp",
+  "file": "/Users/yusec/Documents/Codex/2026-07-22/hatch-pet-running-left-from-right/final/spritesheet-extended.webp",
   "format": "WEBP",
   "mode": "RGBA",
   "columns": 8,
@@ -89,24 +89,6 @@
       "row": 1,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 16565,
-      "opaque_chroma_key_pixels": 0,
-      "chroma_fringe_pixels": 0
-    },
-    {
-      "state": "running-right",
-      "row": 1,
-      "column": 1,
-      "used": true,
-      "nontransparent_pixels": 16533,
-      "opaque_chroma_key_pixels": 0,
-      "chroma_fringe_pixels": 0
-    },
-    {
-      "state": "running-right",
-      "row": 1,
-      "column": 2,
-      "used": true,
       "nontransparent_pixels": 17152,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
@@ -114,7 +96,7 @@
     {
       "state": "running-right",
       "row": 1,
-      "column": 3,
+      "column": 1,
       "used": true,
       "nontransparent_pixels": 17168,
       "opaque_chroma_key_pixels": 0,
@@ -123,25 +105,16 @@
     {
       "state": "running-right",
       "row": 1,
-      "column": 4,
+      "column": 2,
       "used": true,
-      "nontransparent_pixels": 16901,
+      "nontransparent_pixels": 16533,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
     {
       "state": "running-right",
       "row": 1,
-      "column": 5,
-      "used": true,
-      "nontransparent_pixels": 15738,
-      "opaque_chroma_key_pixels": 0,
-      "chroma_fringe_pixels": 0
-    },
-    {
-      "state": "running-right",
-      "row": 1,
-      "column": 6,
+      "column": 3,
       "used": true,
       "nontransparent_pixels": 16049,
       "opaque_chroma_key_pixels": 0,
@@ -150,9 +123,36 @@
     {
       "state": "running-right",
       "row": 1,
-      "column": 7,
+      "column": 4,
+      "used": true,
+      "nontransparent_pixels": 15738,
+      "opaque_chroma_key_pixels": 0,
+      "chroma_fringe_pixels": 0
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "column": 5,
       "used": true,
       "nontransparent_pixels": 15418,
+      "opaque_chroma_key_pixels": 0,
+      "chroma_fringe_pixels": 0
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "column": 6,
+      "used": true,
+      "nontransparent_pixels": 16565,
+      "opaque_chroma_key_pixels": 0,
+      "chroma_fringe_pixels": 0
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "column": 7,
+      "used": true,
+      "nontransparent_pixels": 16901,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -161,7 +161,7 @@
       "row": 2,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 16305,
+      "nontransparent_pixels": 17152,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -170,7 +170,7 @@
       "row": 2,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 16108,
+      "nontransparent_pixels": 17168,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -179,7 +179,7 @@
       "row": 2,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 16412,
+      "nontransparent_pixels": 16533,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -188,7 +188,7 @@
       "row": 2,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 16529,
+      "nontransparent_pixels": 16049,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -197,7 +197,7 @@
       "row": 2,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 15941,
+      "nontransparent_pixels": 15738,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -206,7 +206,7 @@
       "row": 2,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 16206,
+      "nontransparent_pixels": 15418,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -215,7 +215,7 @@
       "row": 2,
       "column": 6,
       "used": true,
-      "nontransparent_pixels": 15961,
+      "nontransparent_pixels": 16565,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -224,7 +224,7 @@
       "row": 2,
       "column": 7,
       "used": true,
-      "nontransparent_pixels": 16132,
+      "nontransparent_pixels": 16901,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
